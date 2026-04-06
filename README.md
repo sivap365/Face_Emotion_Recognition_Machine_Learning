@@ -97,10 +97,3 @@ python main.py
 * Deploy as a web/mobile application
 * Integrate with cloud-based APIs
 * Add emotion analytics dashboard
-
-
-## 📬 Contact
-
-If you have any suggestions or feedback, feel free to reach out!
-
----
